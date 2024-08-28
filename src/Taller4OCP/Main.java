@@ -6,7 +6,7 @@ import Taller4OCP.model.CalculoImpuestoReteIva;
 import Taller4OCP.model.CalculoImpuestoSaludable;
 import Taller4OCP.model.Factura;
 
-public class Main {
+    public class Main {
     public static void main(String[] args) {
         CalculoImpuestoIva calculoImpuestoIva = new CalculoImpuestoIva("Pc",1,2000000);
         CalculoImpuestoReteIva calculoImpuestoReteIva = new CalculoImpuestoReteIva("Pc",1,2000000);
